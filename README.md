@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Samuel Kabati</h1>
-<h3 align="center">A software engineer currently interning with Italanta</h3>
+<h3 align="center">A software engineer and Data Scientist currently interning with Italanta</h3>
 
 <br/>
 
