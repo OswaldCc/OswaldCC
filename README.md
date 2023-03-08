@@ -28,7 +28,7 @@
 ### Get to know me
 
 💬 I'm an expert on **Software Development and Data Science**
-
+💬 My **[portfolio](https://oswaldcc.github.io/samuelkabati/)**
 📝 I regularly write articles on [medium](https://medium.com/@sam.kabati)
 
 🌱 I’m currently developing **An AI chatbot using Openai's GPT3 API**.
