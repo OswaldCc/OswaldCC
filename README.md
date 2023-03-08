@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Samuel Kabati</h1>
-<h3 align="center">A software engineer and Data Scientist. I love training deep neural nets on large datasets and making projects that provide value. </h3>
+<h3 align="center">A software engineer and Data Scientist. I love training deep neural nets on large. </h3>
 
 <br/>
 
