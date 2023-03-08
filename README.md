@@ -1,13 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Samuel Kabati</h1>
-<h3 align="center">A software engineer and Data Scientist. I love training deep neural nets on large. </h3>
-
-<br/>
+<h4 align="center">A software engineer and Data Scientist. I love training deep neural nets on large datasets. </h4>
 
 
-
-<!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 <p align="center" style="float: left;"> 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/samuel-kabati/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Samuel Kabati LinkedIn" /></a> 
