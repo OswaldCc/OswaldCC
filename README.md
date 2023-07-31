@@ -29,13 +29,5 @@
 
 📝 I regularly write articles on [medium](https://medium.com/@sam.kabati)
 
-🌱 I’m currently developing **An AI chatbot using Openai's GPT3 API**.
-
-### My work
-
-🔭 I’m currently working on [Kenzzy](https://github.com/OswaldCc/kenzzy)
-
-
-👨‍💻 Review my projects at [https://github.com/OswaldCc](https://github.com/OswaldCc)
 
 
