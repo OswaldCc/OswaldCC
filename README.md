@@ -27,7 +27,7 @@
 
 💬 My **[portfolio](https://oswaldcc.github.io/samuelkabati/)**
 
-📝 I regularly write articles on [medium](https://medium.com/@sam.kabati)
+
 
 
 
