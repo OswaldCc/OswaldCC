@@ -1,7 +1,7 @@
 
 
-<h4 align="center">I enjoy training ML algorithms and deep neural nets </h4>
-<p align="center" style="float: left;"> </p>
+
+<p align="center" style="float: left;"> I enjoy training ML algorithms and deep neural nets </p>
 💬 My **[personal website](https://oswaldcc.github.io/samuelkabati/)**
 
 
